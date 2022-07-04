@@ -1,8 +1,9 @@
 package com.umeng.myrecyclerview;
 
 import android.content.Context;
-import android.support.annotation.IntDef;
 import android.widget.LinearLayout;
+
+import androidx.annotation.IntDef;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

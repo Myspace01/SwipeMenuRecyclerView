@@ -2,7 +2,6 @@ package com.umeng.myrecyclerview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.view.Gravity;
 import android.view.MotionEvent;
@@ -12,6 +11,8 @@ import android.view.ViewConfiguration;
 import android.widget.FrameLayout;
 import android.widget.OverScroller;
 import android.widget.TextView;
+
+import androidx.core.view.ViewCompat;
 
 /**
  * Created by Elson on 2017/8/18.

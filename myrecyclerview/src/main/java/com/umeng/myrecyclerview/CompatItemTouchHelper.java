@@ -1,6 +1,7 @@
 package com.umeng.myrecyclerview;
 
-import android.support.v7.widget.helper.ItemTouchHelper;
+
+import androidx.recyclerview.widget.ItemTouchHelper;
 
 /**
  * Created by Elson on 2017/8/18.
