@@ -1,14 +1,16 @@
 package com.umeng.myrecyclerview;
 
 import android.content.Context;
-import android.support.annotation.IntDef;
-import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;
 import android.view.ViewGroup;
 import android.view.ViewParent;
+
+import androidx.annotation.IntDef;
+import androidx.recyclerview.widget.RecyclerView;
+
 import com.umeng.myrecyclerview.touch.DefaultItemTouchHelper;
 import com.umeng.myrecyclerview.touch.OnItemMoveListener;
 import com.umeng.myrecyclerview.touch.OnItemMovementListener;
